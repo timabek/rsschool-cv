@@ -20,6 +20,7 @@ ___
 * HTML CSS JS
 * Figma
 * PhotoShop
+* Tailwind
 
 ___
 
