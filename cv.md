@@ -28,7 +28,8 @@ ___
 - Bachelor's Degree in Business Information Technology,
  Kyrgyz University of Ravakov, 2022-2023. 
  
-
+## Projects
+- [You tube clone](https://beautiful-snickerdoodle-067003.netlify.app/)
 ___
 ## Languaches
 - English B1
