@@ -1,0 +1,38 @@
+# Narynbekov Temirlan
+
+___
+
+## About me
+- The things that I like the most is coding or creating something spetial for people. I also know to make design. I have worked hard to get here.
+You know this a great thing to make something and it's give me joy.
+I want to create my own projects in the future that will be useful for people!
+
+___
+## Contacts
+- [Telegram](https://web.telegram.org/k/)
+- [Liked in](https://www.linkedin.com/in/temirlan-narynbekov-6b1a58243/)
+- [Instagram](https://www.instagram.com/timdesigner01/)
+- [Behance](https://www.behance.net/4aa7c0c8)
+___
+## Skills
+* React
+* Redux 
+* Typescript
+* HTML CSS JS
+* Figma
+* PhotoShop
+* Tailwind
+
+___
+
+## Education
+- Bachelor's Degree in Business Information Technology,
+ Kyrgyz University of Ravakov, 2022-2023. 
+ 
+## Projects
+- [You tube clone](https://beautiful-snickerdoodle-067003.netlify.app/)
+___
+## Languaches
+- English B1
+- Russian C1
+- German A1
