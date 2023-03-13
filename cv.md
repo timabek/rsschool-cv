@@ -5,6 +5,7 @@ ___
 ## About me
 - The things that I like the most is coding or creating something spetial for people. I also know to make design. I have worked hard to get here.
 You know this a great thing to make something and it's give me joy.
+I want to create my own projects in the future that will be useful for people!
 
 ___
 ## Contacts
