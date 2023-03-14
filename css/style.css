@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(205, 230, 180);
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: blue;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
