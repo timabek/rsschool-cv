@@ -19,3 +19,13 @@ ___
 * Figma
 * PhotoShop
 
+___
+
+## Education
+- Bachelor's Degree in Business Information Technology, Kyrgyz University, 2022-2023
+
+___
+## Languaches
+- English B1
+- Russian C1
+- German A1
